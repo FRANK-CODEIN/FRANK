@@ -1,5 +1,6 @@
 # Hi 👋, I'm Frank
 
+<img src="(https://github-readme-stats.vercel.app/api?username=FRANK-Infinity&show_icons=true&theme=radical" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRANK-Infinity&show_icons=true&theme=radical)
 
